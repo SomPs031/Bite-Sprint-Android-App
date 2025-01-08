@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830610302659",
+    "firebase_url": "https://bite-sprint-default-rtdb.firebaseio.com",
+    "project_id": "bite-sprint",
+    "storage_bucket": "bite-sprint.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830610302659:android:1546763488dc579d046476",
+        "android_client_info": {
+          "package_name": "com.example.biteSprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830610302659-58cu9b0t7jd0h8ldr6lki5t9mnumg6j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biteSprint",
+            "certificate_hash": "63e5a799942e9988369c8774c2113283d24a5c33"
+          }
+        },
+        {
+          "client_id": "830610302659-ogk86tmd2k113s7o8h5k6a574ge60l38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wZU031rZ11bodUzgXkomLCCpFhTRCIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830610302659-ogk86tmd2k113s7o8h5k6a574ge60l38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
